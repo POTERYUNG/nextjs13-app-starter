@@ -1,0 +1,10 @@
+{
+  "welcome": {
+    "helloWorld": "Hello World, eh?",
+    "happyYear": "Happy {{ year }}!"
+  },
+  "home": {
+    "title": "欢迎来到中国",
+    "titleDesc": "中国充满机遇，您只需关注要紧事，把琐事交给我们。"
+  }
+}
